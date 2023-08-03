@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_TECNO-CK7n.mk
+    $(LOCAL_DIR)/twrp_CK7n.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_TECNO-CK7n-user \
-    twrp_TECNO-CK7n-userdebug \
-    twrp_TECNO-CK7n-eng
+    twrp_CK7n-user \
+    twrp_CK7n-userdebug \
+    twrp_CK7n-eng
